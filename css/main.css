@@ -1,22 +1,35 @@
-
-
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
 
+/* SAMPLE PAGE STYLES */
 
+#poem-container, #image-container {
+  margin: 0 2em;
+}
 
+h1.title {
+  font-weight: bold;
+}
 
+h2.author {
+  line-height: 1em;
+  font-size: 1.75em;
+}
 
+h3.date {
+  font-style: italic;
+  line-height: .5em;
+  font-size: 1.5em;
+}
 
+h3.description {
+  line-height: 1em;
+  font-size: 1.25em;
+}
 
-
-
-
-
-
-
-
-
-
-
+h4.source-link {
+  line-height: 1em;
+  font-size: 1.25em;
+  margin-bottom: 2em;
+}
